@@ -1,0 +1,1 @@
+As the main method shows, the c code implements a quicksort method that takes in an array and sorts it using quicksort.
